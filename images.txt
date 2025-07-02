@@ -1,1 +1,2 @@
-frappe/erpnext:latest
+mariadb:10.6
+redis:6.2-alpine
