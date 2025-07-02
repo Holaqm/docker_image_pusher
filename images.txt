@@ -1,1 +1,1 @@
-frappe/erpnext:v15.67.0
+frappe/erpnext:latest
